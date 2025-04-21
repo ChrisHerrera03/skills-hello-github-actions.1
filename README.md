@@ -10,6 +10,8 @@ _Create and run a GitHub Actions workflow._
 
 _You're now able to write and run an Actions workflow! :sparkles:_
 
+:sparkles:_
+
 Merge your changes so the action will be a part of the `main` branch.
 
 ### :keyboard: Activity: Merge your workflow file
